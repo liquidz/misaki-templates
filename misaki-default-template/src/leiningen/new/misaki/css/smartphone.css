@@ -1,0 +1,20 @@
+/* =hidden */
+a.github_ribbon { display: none; }
+
+/* =header */
+header p { font-size: 15px; }
+
+/* =container */
+.container {
+    margin: 0;
+    width: 100%;
+    font-size: 90%;
+}
+
+/* tag style */
+.tag ul { float-left: 10px; }
+.tag ul li a { padding: 2px 5px; }
+
+/* code highlight */
+pre.prettyprint { overflow: scroll; }
+
